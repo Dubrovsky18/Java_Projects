@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-27T15:04:55" hostname="mycomp" time="1.229">
+  <properties/>
+  <testcase name="start" classname="BullsCowsTest" time="1.229"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+ Please, enter the secret code's length:
+> 1
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: * (0-9).
+Okay, let's start a game!
+Turn 1. Answer:
+> 0
+Grade: None.
+Turn 2. Answer:
+> 1
+Grade: None.
+Turn 3. Answer:
+> 2
+Grade: 1 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 2?[0m
+ Please, enter the secret code's length:
+> 4
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: **** (0-9).
+Okay, let's start a game!
+Turn 1. Answer:
+> 0000
+Grade: None.
+Turn 2. Answer:
+> 1111
+Grade: 1 bull(s) and 3 cow(s)
+Turn 3. Answer:
+> 2222
+Grade: None.
+Turn 4. Answer:
+> 3333
+Grade: None.
+Turn 5. Answer:
+> 4444
+Grade: None.
+Turn 6. Answer:
+> 5555
+Grade: None.
+Turn 7. Answer:
+> 6666
+Grade: 1 bull(s) and 3 cow(s)
+Turn 8. Answer:
+> 7777
+Grade: 1 bull(s) and 3 cow(s)
+Turn 9. Answer:
+> 8888
+Grade: 1 bull(s) and 3 cow(s)
+Turn 10. Answer:
+> 1678
+Grade: 1 bull(s) and 3 cow(s)
+Turn 11. Answer:
+> 6178
+Grade: 4 cows(s)
+Turn 12. Answer:
+> 7168
+Grade: 1 bull(s) and 3 cow(s)
+Turn 13. Answer:
+> 1768
+Grade: 2 bull(s) and 2 cow(s)
+Turn 14. Answer:
+> 6718
+Grade: 4 cows(s)
+Turn 15. Answer:
+> 7618
+Grade: 4 cows(s)
+Turn 16. Answer:
+> 8617
+Grade: 1 bull(s) and 3 cow(s)
+Turn 17. Answer:
+> 6817
+Grade: 2 bull(s) and 2 cow(s)
+Turn 18. Answer:
+> 1867
+Grade: 4 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 3?[0m
+ Please, enter the secret code's length:
+> 6
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: ****** (0-9).
+Okay, let's start a game!
+Turn 1. Answer:
+> 000000
+Grade: None.
+Turn 2. Answer:
+> 111111
+Grade: 1 bull(s) and 5 cow(s)
+Turn 3. Answer:
+> 222222
+Grade: 1 bull(s) and 5 cow(s)
+Turn 4. Answer:
+> 333333
+Grade: 1 bull(s) and 5 cow(s)
+Turn 5. Answer:
+> 444444
+Grade: 1 bull(s) and 5 cow(s)
+Turn 6. Answer:
+> 555555
+Grade: None.
+Turn 7. Answer:
+> 666666
+Grade: None.
+Turn 8. Answer:
+> 777777
+Grade: 1 bull(s) and 5 cow(s)
+Turn 9. Answer:
+> 888888
+Grade: 1 bull(s) and 5 cow(s)
+Turn 10. Answer:
+> 123478
+Grade: 1 bull(s) and 5 cow(s)
+Turn 11. Answer:
+> 213478
+Grade: 2 bull(s) and 4 cow(s)
+Turn 12. Answer:
+> 312478
+Grade: 6 cows(s)
+Turn 13. Answer:
+> 132478
+Grade: 6 cows(s)
+Turn 14. Answer:
+> 231478
+Grade: 1 bull(s) and 5 cow(s)
+Turn 15. Answer:
+> 321478
+Grade: 6 cows(s)
+Turn 16. Answer:
+> 421378
+Grade: 6 cows(s)
+Turn 17. Answer:
+> 241378
+Grade: 1 bull(s) and 5 cow(s)
+Turn 18. Answer:
+> 142378
+Grade: 6 cows(s)
+Turn 19. Answer:
+> 412378
+Grade: 6 cows(s)
+Turn 20. Answer:
+> 214378
+Grade: 1 bull(s) and 5 cow(s)
+Turn 21. Answer:
+> 124378
+Grade: 6 cows(s)
+Turn 22. Answer:
+> 134278
+Grade: 6 cows(s)
+Turn 23. Answer:
+> 314278
+Grade: 6 cows(s)
+Turn 24. Answer:
+> 413278
+Grade: 1 bull(s) and 5 cow(s)
+Turn 25. Answer:
+> 143278
+Grade: 1 bull(s) and 5 cow(s)
+Turn 26. Answer:
+> 341278
+Grade: 6 cows(s)
+Turn 27. Answer:
+> 431278
+Grade: 6 cows(s)
+Turn 28. Answer:
+> 432178
+Grade: 1 bull(s) and 5 cow(s)
+Turn 29. Answer:
+> 342178
+Grade: 1 bull(s) and 5 cow(s)
+Turn 30. Answer:
+> 243178
+Grade: 3 bull(s) and 3 cow(s)
+Turn 31. Answer:
+> 423178
+Grade: 2 bull(s) and 4 cow(s)
+Turn 32. Answer:
+> 324178
+Grade: 1 bull(s) and 5 cow(s)
+Turn 33. Answer:
+> 234178
+Grade: 2 bull(s) and 4 cow(s)
+Turn 34. Answer:
+> 734128
+Grade: 1 bull(s) and 5 cow(s)
+Turn 35. Answer:
+> 374128
+Grade: 1 bull(s) and 5 cow(s)
+Turn 36. Answer:
+> 473128
+Grade: 2 bull(s) and 4 cow(s)
+Turn 37. Answer:
+> 743128
+Grade: 2 bull(s) and 4 cow(s)
+Turn 38. Answer:
+> 347128
+Grade: 1 bull(s) and 5 cow(s)
+Turn 39. Answer:
+> 437128
+Grade: 1 bull(s) and 5 cow(s)
+Turn 40. Answer:
+> 137428
+Grade: 6 cows(s)
+Turn 41. Answer:
+> 317428
+Grade: 6 cows(s)
+Turn 42. Answer:
+> 713428
+Grade: 1 bull(s) and 5 cow(s)
+Turn 43. Answer:
+> 173428
+Grade: 1 bull(s) and 5 cow(s)
+Turn 44. Answer:
+> 371428
+Grade: 6 cows(s)
+Turn 45. Answer:
+> 731428
+Grade: 6 cows(s)
+Turn 46. Answer:
+> 741328
+Grade: 6 cows(s)
+Turn 47. Answer:
+> 471328
+Grade: 6 cows(s)
+Turn 48. Answer:
+> 174328
+Grade: 6 cows(s)
+Turn 49. Answer:
+> 714328
+Grade: 6 cows(s)
+Turn 50. Answer:
+> 417328
+Grade: 6 cows(s)
+Turn 51. Answer:
+> 147328
+Grade: 6 cows(s)
+Turn 52. Answer:
+> 143728
+Grade: 1 bull(s) and 5 cow(s)
+Turn 53. Answer:
+> 413728
+Grade: 1 bull(s) and 5 cow(s)
+Turn 54. Answer:
+> 314728
+Grade: 6 cows(s)
+Turn 55. Answer:
+> 134728
+Grade: 6 cows(s)
+Turn 56. Answer:
+> 431728
+Grade: 6 cows(s)
+Turn 57. Answer:
+> 341728
+Grade: 6 cows(s)
+Turn 58. Answer:
+> 241738
+Grade: 1 bull(s) and 5 cow(s)
+Turn 59. Answer:
+> 421738
+Grade: 6 cows(s)
+Turn 60. Answer:
+> 124738
+Grade: 6 cows(s)
+Turn 61. Answer:
+> 214738
+Grade: 1 bull(s) and 5 cow(s)
+Turn 62. Answer:
+> 412738
+Grade: 6 cows(s)
+Turn 63. Answer:
+> 142738
+Grade: 6 cows(s)
+Turn 64. Answer:
+> 742138
+Grade: 1 bull(s) and 5 cow(s)
+Turn 65. Answer:
+> 472138
+Grade: 1 bull(s) and 5 cow(s)
+Turn 66. Answer:
+> 274138
+Grade: 2 bull(s) and 4 cow(s)
+Turn 67. Answer:
+> 724138
+Grade: 1 bull(s) and 5 cow(s)
+Turn 68. Answer:
+> 427138
+Grade: 1 bull(s) and 5 cow(s)
+Turn 69. Answer:
+> 247138
+Grade: 2 bull(s) and 4 cow(s)
+Turn 70. Answer:
+> 217438
+Grade: 1 bull(s) and 5 cow(s)
+Turn 71. Answer:
+> 127438
+Grade: 6 cows(s)
+Turn 72. Answer:
+> 721438
+Grade: 6 cows(s)
+Turn 73. Answer:
+> 271438
+Grade: 1 bull(s) and 5 cow(s)
+Turn 74. Answer:
+> 172438
+Grade: 6 cows(s)
+Turn 75. Answer:
+> 712438
+Grade: 6 cows(s)
+Turn 76. Answer:
+> 714238
+Grade: 6 cows(s)
+Turn 77. Answer:
+> 174238
+Grade: 6 cows(s)
+Turn 78. Answer:
+> 471238
+Grade: 6 cows(s)
+Turn 79. Answer:
+> 741238
+Grade: 6 cows(s)
+Turn 80. Answer:
+> 147238
+Grade: 6 cows(s)
+Turn 81. Answer:
+> 417238
+Grade: 6 cows(s)
+Turn 82. Answer:
+> 317248
+Grade: 1 bull(s) and 5 cow(s)
+Turn 83. Answer:
+> 137248
+Grade: 1 bull(s) and 5 cow(s)
+Turn 84. Answer:
+> 731248
+Grade: 1 bull(s) and 5 cow(s)
+Turn 85. Answer:
+> 371248
+Grade: 1 bull(s) and 5 cow(s)
+Turn 86. Answer:
+> 173248
+Grade: 2 bull(s) and 4 cow(s)
+Turn 87. Answer:
+> 713248
+Grade: 2 bull(s) and 4 cow(s)
+Turn 88. Answer:
+> 213748
+Grade: 3 bull(s) and 3 cow(s)
+Turn 89. Answer:
+> 123748
+Grade: 2 bull(s) and 4 cow(s)
+Turn 90. Answer:
+> 321748
+Grade: 1 bull(s) and 5 cow(s)
+Turn 91. Answer:
+> 231748
+Grade: 2 bull(s) and 4 cow(s)
+Turn 92. Answer:
+> 132748
+Grade: 1 bull(s) and 5 cow(s)
+Turn 93. Answer:
+> 312748
+Grade: 1 bull(s) and 5 cow(s)
+Turn 94. Answer:
+> 372148
+Grade: 2 bull(s) and 4 cow(s)
+Turn 95. Answer:
+> 732148
+Grade: 2 bull(s) and 4 cow(s)
+Turn 96. Answer:
+> 237148
+Grade: 3 bull(s) and 3 cow(s)
+Turn 97. Answer:
+> 327148
+Grade: 2 bull(s) and 4 cow(s)
+Turn 98. Answer:
+> 723148
+Grade: 3 bull(s) and 3 cow(s)
+Turn 99. Answer:
+> 273148
+Grade: 4 bull(s) and 2 cow(s)
+Turn 100. Answer:
+> 271348
+Grade: 2 bull(s) and 4 cow(s)
+Turn 101. Answer:
+> 721348
+Grade: 1 bull(s) and 5 cow(s)
+Turn 102. Answer:
+> 127348
+Grade: 1 bull(s) and 5 cow(s)
+Turn 103. Answer:
+> 217348
+Grade: 2 bull(s) and 4 cow(s)
+Turn 104. Answer:
+> 712348
+Grade: 1 bull(s) and 5 cow(s)
+Turn 105. Answer:
+> 172348
+Grade: 1 bull(s) and 5 cow(s)
+Turn 106. Answer:
+> 472318
+Grade: 6 cows(s)
+Turn 107. Answer:
+> 742318
+Grade: 6 cows(s)
+Turn 108. Answer:
+> 247318
+Grade: 1 bull(s) and 5 cow(s)
+Turn 109. Answer:
+> 427318
+Grade: 6 cows(s)
+Turn 110. Answer:
+> 724318
+Grade: 6 cows(s)
+Turn 111. Answer:
+> 274318
+Grade: 1 bull(s) and 5 cow(s)
+Turn 112. Answer:
+> 374218
+Grade: 6 cows(s)
+Turn 113. Answer:
+> 734218
+Grade: 6 cows(s)
+Turn 114. Answer:
+> 437218
+Grade: 6 cows(s)
+Turn 115. Answer:
+> 347218
+Grade: 6 cows(s)
+Turn 116. Answer:
+> 743218
+Grade: 1 bull(s) and 5 cow(s)
+Turn 117. Answer:
+> 473218
+Grade: 1 bull(s) and 5 cow(s)
+Turn 118. Answer:
+> 423718
+Grade: 1 bull(s) and 5 cow(s)
+Turn 119. Answer:
+> 243718
+Grade: 2 bull(s) and 4 cow(s)
+Turn 120. Answer:
+> 342718
+Grade: 6 cows(s)
+Turn 121. Answer:
+> 432718
+Grade: 6 cows(s)
+Turn 122. Answer:
+> 234718
+Grade: 1 bull(s) and 5 cow(s)
+Turn 123. Answer:
+> 324718
+Grade: 6 cows(s)
+Turn 124. Answer:
+> 327418
+Grade: 6 cows(s)
+Turn 125. Answer:
+> 237418
+Grade: 1 bull(s) and 5 cow(s)
+Turn 126. Answer:
+> 732418
+Grade: 6 cows(s)
+Turn 127. Answer:
+> 372418
+Grade: 6 cows(s)
+Turn 128. Answer:
+> 273418
+Grade: 2 bull(s) and 4 cow(s)
+Turn 129. Answer:
+> 723418
+Grade: 1 bull(s) and 5 cow(s)
+Turn 130. Answer:
+> 823417
+Grade: 2 bull(s) and 4 cow(s)
+Turn 131. Answer:
+> 283417
+Grade: 4 bull(s) and 2 cow(s)
+Turn 132. Answer:
+> 382417
+Grade: 2 bull(s) and 4 cow(s)
+Turn 133. Answer:
+> 832417
+Grade: 1 bull(s) and 5 cow(s)
+Turn 134. Answer:
+> 238417
+Grade: 2 bull(s) and 4 cow(s)
+Turn 135. Answer:
+> 328417
+Grade: 1 bull(s) and 5 cow(s)
+Turn 136. Answer:
+> 428317
+Grade: 1 bull(s) and 5 cow(s)
+Turn 137. Answer:
+> 248317
+Grade: 2 bull(s) and 4 cow(s)
+Turn 138. Answer:
+> 842317
+Grade: 1 bull(s) and 5 cow(s)
+Turn 139. Answer:
+> 482317
+Grade: 2 bull(s) and 4 cow(s)
+Turn 140. Answer:
+> 284317
+Grade: 3 bull(s) and 3 cow(s)
+Turn 141. Answer:
+> 824317
+Grade: 1 bull(s) and 5 cow(s)
+Turn 142. Answer:
+> 834217
+Grade: 1 bull(s) and 5 cow(s)
+Turn 143. Answer:
+> 384217
+Grade: 2 bull(s) and 4 cow(s)
+Turn 144. Answer:
+> 483217
+Grade: 3 bull(s) and 3 cow(s)
+Turn 145. Answer:
+> 843217
+Grade: 2 bull(s) and 4 cow(s)
+Turn 146. Answer:
+> 348217
+Grade: 1 bull(s) and 5 cow(s)
+Turn 147. Answer:
+> 438217
+Grade: 1 bull(s) and 5 cow(s)
+Turn 148. Answer:
+> 432817
+Grade: 1 bull(s) and 5 cow(s)
+Turn 149. Answer:
+> 342817
+Grade: 1 bull(s) and 5 cow(s)
+Turn 150. Answer:
+> 243817
+Grade: 3 bull(s) and 3 cow(s)
+Turn 151. Answer:
+> 423817
+Grade: 2 bull(s) and 4 cow(s)
+Turn 152. Answer:
+> 324817
+Grade: 1 bull(s) and 5 cow(s)
+Turn 153. Answer:
+> 234817
+Grade: 2 bull(s) and 4 cow(s)
+Turn 154. Answer:
+> 134827
+Grade: 1 bull(s) and 5 cow(s)
+Turn 155. Answer:
+> 314827
+Grade: 1 bull(s) and 5 cow(s)
+Turn 156. Answer:
+> 413827
+Grade: 2 bull(s) and 4 cow(s)
+Turn 157. Answer:
+> 143827
+Grade: 2 bull(s) and 4 cow(s)
+Turn 158. Answer:
+> 341827
+Grade: 1 bull(s) and 5 cow(s)
+Turn 159. Answer:
+> 431827
+Grade: 1 bull(s) and 5 cow(s)
+Turn 160. Answer:
+> 831427
+Grade: 1 bull(s) and 5 cow(s)
+Turn 161. Answer:
+> 381427
+Grade: 2 bull(s) and 4 cow(s)
+Turn 162. Answer:
+> 183427
+Grade: 3 bull(s) and 3 cow(s)
+Turn 163. Answer:
+> 813427
+Grade: 2 bull(s) and 4 cow(s)
+Turn 164. Answer:
+> 318427
+Grade: 1 bull(s) and 5 cow(s)
+Turn 165. Answer:
+> 138427
+Grade: 1 bull(s) and 5 cow(s)
+Turn 166. Answer:
+> 148327
+Grade: 1 bull(s) and 5 cow(s)
+Turn 167. Answer:
+> 418327
+Grade: 1 bull(s) and 5 cow(s)
+Turn 168. Answer:
+> 814327
+Grade: 1 bull(s) and 5 cow(s)
+Turn 169. Answer:
+> 184327
+Grade: 2 bull(s) and 4 cow(s)
+Turn 170. Answer:
+> 481327
+Grade: 2 bull(s) and 4 cow(s)
+Turn 171. Answer:
+> 841327
+Grade: 1 bull(s) and 5 cow(s)
+Turn 172. Answer:
+> 843127
+Grade: 3 bull(s) and 3 cow(s)
+Turn 173. Answer:
+> 483127
+Grade: 4 bull(s) and 2 cow(s)
+Turn 174. Answer:
+> 384127
+Grade: 3 bull(s) and 3 cow(s)
+Turn 175. Answer:
+> 834127
+Grade: 2 bull(s) and 4 cow(s)
+Turn 176. Answer:
+> 438127
+Grade: 2 bull(s) and 4 cow(s)
+Turn 177. Answer:
+> 348127
+Grade: 2 bull(s) and 4 cow(s)
+Turn 178. Answer:
+> 248137
+Grade: 3 bull(s) and 3 cow(s)
+Turn 179. Answer:
+> 428137
+Grade: 2 bull(s) and 4 cow(s)
+Turn 180. Answer:
+> 824137
+Grade: 2 bull(s) and 4 cow(s)
+Turn 181. Answer:
+> 284137
+Grade: 4 bull(s) and 2 cow(s)
+Turn 182. Answer:
+> 482137
+Grade: 3 bull(s) and 3 cow(s)
+Turn 183. Answer:
+> 842137
+Grade: 2 bull(s) and 4 cow(s)
+Turn 184. Answer:
+> 142837
+Grade: 1 bull(s) and 5 cow(s)
+Turn 185. Answer:
+> 412837
+Grade: 1 bull(s) and 5 cow(s)
+Turn 186. Answer:
+> 214837
+Grade: 2 bull(s) and 4 cow(s)
+Turn 187. Answer:
+> 124837
+Grade: 1 bull(s) and 5 cow(s)
+Turn 188. Answer:
+> 421837
+Grade: 1 bull(s) and 5 cow(s)
+Turn 189. Answer:
+> 241837
+Grade: 2 bull(s) and 4 cow(s)
+Turn 190. Answer:
+> 281437
+Grade: 3 bull(s) and 3 cow(s)
+Turn 191. Answer:
+> 821437
+Grade: 1 bull(s) and 5 cow(s)
+Turn 192. Answer:
+> 128437
+Grade: 1 bull(s) and 5 cow(s)
+Turn 193. Answer:
+> 218437
+Grade: 2 bull(s) and 4 cow(s)
+Turn 194. Answer:
+> 812437
+Grade: 1 bull(s) and 5 cow(s)
+Turn 195. Answer:
+> 182437
+Grade: 2 bull(s) and 4 cow(s)
+Turn 196. Answer:
+> 184237
+Grade: 2 bull(s) and 4 cow(s)
+Turn 197. Answer:
+> 814237
+Grade: 1 bull(s) and 5 cow(s)
+Turn 198. Answer:
+> 418237
+Grade: 1 bull(s) and 5 cow(s)
+Turn 199. Answer:
+> 148237
+Grade: 1 bull(s) and 5 cow(s)
+Turn 200. Answer:
+> 841237
+Grade: 1 bull(s) and 5 cow(s)
+Turn 201. Answer:
+> 481237
+Grade: 2 bull(s) and 4 cow(s)
+Turn 202. Answer:
+> 381247
+Grade: 3 bull(s) and 3 cow(s)
+Turn 203. Answer:
+> 831247
+Grade: 2 bull(s) and 4 cow(s)
+Turn 204. Answer:
+> 138247
+Grade: 2 bull(s) and 4 cow(s)
+Turn 205. Answer:
+> 318247
+Grade: 2 bull(s) and 4 cow(s)
+Turn 206. Answer:
+> 813247
+Grade: 3 bull(s) and 3 cow(s)
+Turn 207. Answer:
+> 183247
+Grade: 4 bull(s) and 2 cow(s)
+Turn 208. Answer:
+> 283147
+Grade: 6 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 4?[0m
+ Please, enter the secret code's length:
+> 11
+Input the number of possible symbols in the code:
+> 10
+Error: it's not possible to generate a code with a length of 10 with 11 unique symbols.
+
+?[1;31m
+Start test 5?[0m
+ Please, enter the secret code's length:
+> 4
+Input the number of possible symbols in the code:
+> 16
+The secret is prepared: **** (0-9, a-f).
+Okay, let's start a game!
+Turn 1. Answer:
+> 0000
+Grade: None.
+Turn 2. Answer:
+> 1111
+Grade: None.
+Turn 3. Answer:
+> 2222
+Grade: None.
+Turn 4. Answer:
+> 3333
+Grade: None.
+Turn 5. Answer:
+> 4444
+Grade: 1 bull(s) and 3 cow(s)
+Turn 6. Answer:
+> 5555
+Grade: 1 bull(s) and 3 cow(s)
+Turn 7. Answer:
+> 6666
+Grade: None.
+Turn 8. Answer:
+> 7777
+Grade: None.
+Turn 9. Answer:
+> 8888
+Grade: None.
+Turn 10. Answer:
+> 9999
+Grade: None.
+Turn 11. Answer:
+> aaaa
+Grade: None.
+Turn 12. Answer:
+> bbbb
+Grade: None.
+Turn 13. Answer:
+> cccc
+Grade: 1 bull(s) and 3 cow(s)
+Turn 14. Answer:
+> dddd
+Grade: 1 bull(s) and 3 cow(s)
+Turn 15. Answer:
+> 45cd
+Grade: 4 cows(s)
+Turn 16. Answer:
+> 54cd
+Grade: 1 bull(s) and 3 cow(s)
+Turn 17. Answer:
+> c45d
+Grade: 2 bull(s) and 2 cow(s)
+Turn 18. Answer:
+> 4c5d
+Grade: 1 bull(s) and 3 cow(s)
+Turn 19. Answer:
+> 5c4d
+Grade: 4 cows(s)
+Turn 20. Answer:
+> c54d
+Grade: 4 cows(s)
+Turn 21. Answer:
+> d54c
+Grade: 2 bull(s) and 2 cow(s)
+Turn 22. Answer:
+> 5d4c
+Grade: 1 bull(s) and 3 cow(s)
+Turn 23. Answer:
+> 4d5c
+Grade: 2 bull(s) and 2 cow(s)
+Turn 24. Answer:
+> d45c
+Grade: 4 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 6?[0m
+ Please, enter the secret code's length:
+> 6
+Input the number of possible symbols in the code:
+> 36
+The secret is prepared: ****** (0-9, a-z).
+Okay, let's start a game!
+Turn 1. Answer:
+> 000000
+Grade: None.
+Turn 2. Answer:
+> 111111
+Grade: None.
+Turn 3. Answer:
+> 222222
+Grade: 1 bull(s) and 5 cow(s)
+Turn 4. Answer:
+> 333333
+Grade: None.
+Turn 5. Answer:
+> 444444
+Grade: 1 bull(s) and 5 cow(s)
+Turn 6. Answer:
+> 555555
+Grade: None.
+Turn 7. Answer:
+> 666666
+Grade: None.
+Turn 8. Answer:
+> 777777
+Grade: None.
+Turn 9. Answer:
+> 888888
+Grade: None.
+Turn 10. Answer:
+> 999999
+Grade: None.
+Turn 11. Answer:
+> aaaaaa
+Grade: None.
+Turn 12. Answer:
+> bbbbbb
+Grade: None.
+Turn 13. Answer:
+> cccccc
+Grade: None.
+Turn 14. Answer:
+> dddddd
+Grade: None.
+Turn 15. Answer:
+> eeeeee
+Grade: None.
+Turn 16. Answer:
+> ffffff
+Grade: 1 bull(s) and 5 cow(s)
+Turn 17. Answer:
+> gggggg
+Grade: None.
+Turn 18. Answer:
+> hhhhhh
+Grade: None.
+Turn 19. Answer:
+> iiiiii
+Grade: 1 bull(s) and 5 cow(s)
+Turn 20. Answer:
+> jjjjjj
+Grade: None.
+Turn 21. Answer:
+> kkkkkk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 22. Answer:
+> llllll
+Grade: None.
+Turn 23. Answer:
+> mmmmmm
+Grade: None.
+Turn 24. Answer:
+> nnnnnn
+Grade: None.
+Turn 25. Answer:
+> oooooo
+Grade: None.
+Turn 26. Answer:
+> pppppp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 27. Answer:
+> 24fikp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 28. Answer:
+> 42fikp
+Grade: 4 bull(s) and 2 cow(s)
+Turn 29. Answer:
+> f24ikp
+Grade: 3 bull(s) and 3 cow(s)
+Turn 30. Answer:
+> 2f4ikp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 31. Answer:
+> 4f2ikp
+Grade: 3 bull(s) and 3 cow(s)
+Turn 32. Answer:
+> f42ikp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 33. Answer:
+> i42fkp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 34. Answer:
+> 4i2fkp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 35. Answer:
+> 2i4fkp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 36. Answer:
+> i24fkp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 37. Answer:
+> 42ifkp
+Grade: 3 bull(s) and 3 cow(s)
+Turn 38. Answer:
+> 24ifkp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 39. Answer:
+> 2fi4kp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 40. Answer:
+> f2i4kp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 41. Answer:
+> i2f4kp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 42. Answer:
+> 2if4kp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 43. Answer:
+> fi24kp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 44. Answer:
+> if24kp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 45. Answer:
+> if42kp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 46. Answer:
+> fi42kp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 47. Answer:
+> 4if2kp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 48. Answer:
+> i4f2kp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 49. Answer:
+> f4i2kp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 50. Answer:
+> 4fi2kp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 51. Answer:
+> kfi24p
+Grade: 6 cows(s)
+Turn 52. Answer:
+> fki24p
+Grade: 6 cows(s)
+Turn 53. Answer:
+> ikf24p
+Grade: 6 cows(s)
+Turn 54. Answer:
+> kif24p
+Grade: 6 cows(s)
+Turn 55. Answer:
+> fik24p
+Grade: 6 cows(s)
+Turn 56. Answer:
+> ifk24p
+Grade: 6 cows(s)
+Turn 57. Answer:
+> 2fki4p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 58. Answer:
+> f2ki4p
+Grade: 2 bull(s) and 4 cow(s)
+Turn 59. Answer:
+> k2fi4p
+Grade: 2 bull(s) and 4 cow(s)
+Turn 60. Answer:
+> 2kfi4p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 61. Answer:
+> fk2i4p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 62. Answer:
+> kf2i4p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 63. Answer:
+> ki2f4p
+Grade: 6 cows(s)
+Turn 64. Answer:
+> ik2f4p
+Grade: 6 cows(s)
+Turn 65. Answer:
+> 2kif4p
+Grade: 6 cows(s)
+Turn 66. Answer:
+> k2if4p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 67. Answer:
+> i2kf4p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 68. Answer:
+> 2ikf4p
+Grade: 6 cows(s)
+Turn 69. Answer:
+> 2ifk4p
+Grade: 6 cows(s)
+Turn 70. Answer:
+> i2fk4p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 71. Answer:
+> f2ik4p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 72. Answer:
+> 2fik4p
+Grade: 6 cows(s)
+Turn 73. Answer:
+> if2k4p
+Grade: 6 cows(s)
+Turn 74. Answer:
+> fi2k4p
+Grade: 6 cows(s)
+Turn 75. Answer:
+> 4i2kfp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 76. Answer:
+> i42kfp
+Grade: 6 cows(s)
+Turn 77. Answer:
+> 24ikfp
+Grade: 6 cows(s)
+Turn 78. Answer:
+> 42ikfp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 79. Answer:
+> i24kfp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 80. Answer:
+> 2i4kfp
+Grade: 6 cows(s)
+Turn 81. Answer:
+> ki42fp
+Grade: 6 cows(s)
+Turn 82. Answer:
+> ik42fp
+Grade: 6 cows(s)
+Turn 83. Answer:
+> 4ki2fp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 84. Answer:
+> k4i2fp
+Grade: 6 cows(s)
+Turn 85. Answer:
+> i4k2fp
+Grade: 6 cows(s)
+Turn 86. Answer:
+> 4ik2fp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 87. Answer:
+> 42kifp
+Grade: 3 bull(s) and 3 cow(s)
+Turn 88. Answer:
+> 24kifp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 89. Answer:
+> k42ifp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 90. Answer:
+> 4k2ifp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 91. Answer:
+> 2k4ifp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 92. Answer:
+> k24ifp
+Grade: 2 bull(s) and 4 cow(s)
+Turn 93. Answer:
+> k2i4fp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 94. Answer:
+> 2ki4fp
+Grade: 6 cows(s)
+Turn 95. Answer:
+> ik24fp
+Grade: 6 cows(s)
+Turn 96. Answer:
+> ki24fp
+Grade: 6 cows(s)
+Turn 97. Answer:
+> 2ik4fp
+Grade: 6 cows(s)
+Turn 98. Answer:
+> i2k4fp
+Grade: 1 bull(s) and 5 cow(s)
+Turn 99. Answer:
+> f2k4ip
+Grade: 1 bull(s) and 5 cow(s)
+Turn 100. Answer:
+> 2fk4ip
+Grade: 6 cows(s)
+Turn 101. Answer:
+> kf24ip
+Grade: 6 cows(s)
+Turn 102. Answer:
+> fk24ip
+Grade: 6 cows(s)
+Turn 103. Answer:
+> 2kf4ip
+Grade: 6 cows(s)
+Turn 104. Answer:
+> k2f4ip
+Grade: 1 bull(s) and 5 cow(s)
+Turn 105. Answer:
+> 42fkip
+Grade: 2 bull(s) and 4 cow(s)
+Turn 106. Answer:
+> 24fkip
+Grade: 6 cows(s)
+Turn 107. Answer:
+> f42kip
+Grade: 6 cows(s)
+Turn 108. Answer:
+> 4f2kip
+Grade: 1 bull(s) and 5 cow(s)
+Turn 109. Answer:
+> 2f4kip
+Grade: 6 cows(s)
+Turn 110. Answer:
+> f24kip
+Grade: 1 bull(s) and 5 cow(s)
+Turn 111. Answer:
+> fk42ip
+Grade: 6 cows(s)
+Turn 112. Answer:
+> kf42ip
+Grade: 6 cows(s)
+Turn 113. Answer:
+> 4fk2ip
+Grade: 1 bull(s) and 5 cow(s)
+Turn 114. Answer:
+> f4k2ip
+Grade: 6 cows(s)
+Turn 115. Answer:
+> k4f2ip
+Grade: 6 cows(s)
+Turn 116. Answer:
+> 4kf2ip
+Grade: 1 bull(s) and 5 cow(s)
+Turn 117. Answer:
+> 4k2fip
+Grade: 1 bull(s) and 5 cow(s)
+Turn 118. Answer:
+> k42fip
+Grade: 6 cows(s)
+Turn 119. Answer:
+> 24kfip
+Grade: 6 cows(s)
+Turn 120. Answer:
+> 42kfip
+Grade: 2 bull(s) and 4 cow(s)
+Turn 121. Answer:
+> k24fip
+Grade: 1 bull(s) and 5 cow(s)
+Turn 122. Answer:
+> 2k4fip
+Grade: 6 cows(s)
+Turn 123. Answer:
+> ik4f2p
+Grade: 6 cows(s)
+Turn 124. Answer:
+> ki4f2p
+Grade: 6 cows(s)
+Turn 125. Answer:
+> 4ikf2p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 126. Answer:
+> i4kf2p
+Grade: 6 cows(s)
+Turn 127. Answer:
+> k4if2p
+Grade: 6 cows(s)
+Turn 128. Answer:
+> 4kif2p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 129. Answer:
+> fki42p
+Grade: 6 cows(s)
+Turn 130. Answer:
+> kfi42p
+Grade: 6 cows(s)
+Turn 131. Answer:
+> ifk42p
+Grade: 6 cows(s)
+Turn 132. Answer:
+> fik42p
+Grade: 6 cows(s)
+Turn 133. Answer:
+> kif42p
+Grade: 6 cows(s)
+Turn 134. Answer:
+> ikf42p
+Grade: 6 cows(s)
+Turn 135. Answer:
+> i4fk2p
+Grade: 6 cows(s)
+Turn 136. Answer:
+> 4ifk2p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 137. Answer:
+> fi4k2p
+Grade: 6 cows(s)
+Turn 138. Answer:
+> if4k2p
+Grade: 6 cows(s)
+Turn 139. Answer:
+> 4fik2p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 140. Answer:
+> f4ik2p
+Grade: 6 cows(s)
+Turn 141. Answer:
+> f4ki2p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 142. Answer:
+> 4fki2p
+Grade: 2 bull(s) and 4 cow(s)
+Turn 143. Answer:
+> kf4i2p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 144. Answer:
+> fk4i2p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 145. Answer:
+> 4kfi2p
+Grade: 2 bull(s) and 4 cow(s)
+Turn 146. Answer:
+> k4fi2p
+Grade: 1 bull(s) and 5 cow(s)
+Turn 147. Answer:
+> p4fi2k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 148. Answer:
+> 4pfi2k
+Grade: 2 bull(s) and 4 cow(s)
+Turn 149. Answer:
+> fp4i2k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 150. Answer:
+> pf4i2k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 151. Answer:
+> 4fpi2k
+Grade: 3 bull(s) and 3 cow(s)
+Turn 152. Answer:
+> f4pi2k
+Grade: 2 bull(s) and 4 cow(s)
+Turn 153. Answer:
+> i4pf2k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 154. Answer:
+> 4ipf2k
+Grade: 2 bull(s) and 4 cow(s)
+Turn 155. Answer:
+> pi4f2k
+Grade: 6 cows(s)
+Turn 156. Answer:
+> ip4f2k
+Grade: 6 cows(s)
+Turn 157. Answer:
+> 4pif2k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 158. Answer:
+> p4if2k
+Grade: 6 cows(s)
+Turn 159. Answer:
+> pfi42k
+Grade: 6 cows(s)
+Turn 160. Answer:
+> fpi42k
+Grade: 6 cows(s)
+Turn 161. Answer:
+> ipf42k
+Grade: 6 cows(s)
+Turn 162. Answer:
+> pif42k
+Grade: 6 cows(s)
+Turn 163. Answer:
+> fip42k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 164. Answer:
+> ifp42k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 165. Answer:
+> if4p2k
+Grade: 6 cows(s)
+Turn 166. Answer:
+> fi4p2k
+Grade: 6 cows(s)
+Turn 167. Answer:
+> 4ifp2k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 168. Answer:
+> i4fp2k
+Grade: 6 cows(s)
+Turn 169. Answer:
+> f4ip2k
+Grade: 6 cows(s)
+Turn 170. Answer:
+> 4fip2k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 171. Answer:
+> 2fip4k
+Grade: 6 cows(s)
+Turn 172. Answer:
+> f2ip4k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 173. Answer:
+> i2fp4k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 174. Answer:
+> 2ifp4k
+Grade: 6 cows(s)
+Turn 175. Answer:
+> fi2p4k
+Grade: 6 cows(s)
+Turn 176. Answer:
+> if2p4k
+Grade: 6 cows(s)
+Turn 177. Answer:
+> pf2i4k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 178. Answer:
+> fp2i4k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 179. Answer:
+> 2pfi4k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 180. Answer:
+> p2fi4k
+Grade: 2 bull(s) and 4 cow(s)
+Turn 181. Answer:
+> f2pi4k
+Grade: 3 bull(s) and 3 cow(s)
+Turn 182. Answer:
+> 2fpi4k
+Grade: 2 bull(s) and 4 cow(s)
+Turn 183. Answer:
+> 2ipf4k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 184. Answer:
+> i2pf4k
+Grade: 2 bull(s) and 4 cow(s)
+Turn 185. Answer:
+> p2if4k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 186. Answer:
+> 2pif4k
+Grade: 6 cows(s)
+Turn 187. Answer:
+> ip2f4k
+Grade: 6 cows(s)
+Turn 188. Answer:
+> pi2f4k
+Grade: 6 cows(s)
+Turn 189. Answer:
+> pif24k
+Grade: 6 cows(s)
+Turn 190. Answer:
+> ipf24k
+Grade: 6 cows(s)
+Turn 191. Answer:
+> fpi24k
+Grade: 6 cows(s)
+Turn 192. Answer:
+> pfi24k
+Grade: 6 cows(s)
+Turn 193. Answer:
+> ifp24k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 194. Answer:
+> fip24k
+Grade: 1 bull(s) and 5 cow(s)
+Turn 195. Answer:
+> 4ip2fk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 196. Answer:
+> i4p2fk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 197. Answer:
+> p4i2fk
+Grade: 6 cows(s)
+Turn 198. Answer:
+> 4pi2fk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 199. Answer:
+> ip42fk
+Grade: 6 cows(s)
+Turn 200. Answer:
+> pi42fk
+Grade: 6 cows(s)
+Turn 201. Answer:
+> 2i4pfk
+Grade: 6 cows(s)
+Turn 202. Answer:
+> i24pfk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 203. Answer:
+> 42ipfk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 204. Answer:
+> 24ipfk
+Grade: 6 cows(s)
+Turn 205. Answer:
+> i42pfk
+Grade: 6 cows(s)
+Turn 206. Answer:
+> 4i2pfk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 207. Answer:
+> 4p2ifk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 208. Answer:
+> p42ifk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 209. Answer:
+> 24pifk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 210. Answer:
+> 42pifk
+Grade: 4 bull(s) and 2 cow(s)
+Turn 211. Answer:
+> p24ifk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 212. Answer:
+> 2p4ifk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 213. Answer:
+> 2pi4fk
+Grade: 6 cows(s)
+Turn 214. Answer:
+> p2i4fk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 215. Answer:
+> i2p4fk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 216. Answer:
+> 2ip4fk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 217. Answer:
+> pi24fk
+Grade: 6 cows(s)
+Turn 218. Answer:
+> ip24fk
+Grade: 6 cows(s)
+Turn 219. Answer:
+> fp24ik
+Grade: 6 cows(s)
+Turn 220. Answer:
+> pf24ik
+Grade: 6 cows(s)
+Turn 221. Answer:
+> 2fp4ik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 222. Answer:
+> f2p4ik
+Grade: 2 bull(s) and 4 cow(s)
+Turn 223. Answer:
+> p2f4ik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 224. Answer:
+> 2pf4ik
+Grade: 6 cows(s)
+Turn 225. Answer:
+> 4pf2ik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 226. Answer:
+> p4f2ik
+Grade: 6 cows(s)
+Turn 227. Answer:
+> f4p2ik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 228. Answer:
+> 4fp2ik
+Grade: 2 bull(s) and 4 cow(s)
+Turn 229. Answer:
+> pf42ik
+Grade: 6 cows(s)
+Turn 230. Answer:
+> fp42ik
+Grade: 6 cows(s)
+Turn 231. Answer:
+> f24pik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 232. Answer:
+> 2f4pik
+Grade: 6 cows(s)
+Turn 233. Answer:
+> 4f2pik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 234. Answer:
+> f42pik
+Grade: 6 cows(s)
+Turn 235. Answer:
+> 24fpik
+Grade: 6 cows(s)
+Turn 236. Answer:
+> 42fpik
+Grade: 2 bull(s) and 4 cow(s)
+Turn 237. Answer:
+> 42pfik
+Grade: 3 bull(s) and 3 cow(s)
+Turn 238. Answer:
+> 24pfik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 239. Answer:
+> p42fik
+Grade: 6 cows(s)
+Turn 240. Answer:
+> 4p2fik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 241. Answer:
+> 2p4fik
+Grade: 6 cows(s)
+Turn 242. Answer:
+> p24fik
+Grade: 1 bull(s) and 5 cow(s)
+Turn 243. Answer:
+> i24fpk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 244. Answer:
+> 2i4fpk
+Grade: 6 cows(s)
+Turn 245. Answer:
+> 4i2fpk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 246. Answer:
+> i42fpk
+Grade: 6 cows(s)
+Turn 247. Answer:
+> 24ifpk
+Grade: 6 cows(s)
+Turn 248. Answer:
+> 42ifpk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 249. Answer:
+> f2i4pk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 250. Answer:
+> 2fi4pk
+Grade: 6 cows(s)
+Turn 251. Answer:
+> if24pk
+Grade: 6 cows(s)
+Turn 252. Answer:
+> fi24pk
+Grade: 6 cows(s)
+Turn 253. Answer:
+> 2if4pk
+Grade: 6 cows(s)
+Turn 254. Answer:
+> i2f4pk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 255. Answer:
+> i4f2pk
+Grade: 6 cows(s)
+Turn 256. Answer:
+> 4if2pk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 257. Answer:
+> fi42pk
+Grade: 6 cows(s)
+Turn 258. Answer:
+> if42pk
+Grade: 6 cows(s)
+Turn 259. Answer:
+> 4fi2pk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 260. Answer:
+> f4i2pk
+Grade: 6 cows(s)
+Turn 261. Answer:
+> f42ipk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 262. Answer:
+> 4f2ipk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 263. Answer:
+> 2f4ipk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 264. Answer:
+> f24ipk
+Grade: 2 bull(s) and 4 cow(s)
+Turn 265. Answer:
+> 42fipk
+Grade: 3 bull(s) and 3 cow(s)
+Turn 266. Answer:
+> 24fipk
+Grade: 1 bull(s) and 5 cow(s)
+Turn 267. Answer:
+> 2kfip4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 268. Answer:
+> k2fip4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 269. Answer:
+> f2kip4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 270. Answer:
+> 2fkip4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 271. Answer:
+> kf2ip4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 272. Answer:
+> fk2ip4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 273. Answer:
+> ik2fp4
+Grade: 6 cows(s)
+Turn 274. Answer:
+> ki2fp4
+Grade: 6 cows(s)
+Turn 275. Answer:
+> 2ikfp4
+Grade: 6 cows(s)
+Turn 276. Answer:
+> i2kfp4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 277. Answer:
+> k2ifp4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 278. Answer:
+> 2kifp4
+Grade: 6 cows(s)
+Turn 279. Answer:
+> 2fikp4
+Grade: 6 cows(s)
+Turn 280. Answer:
+> f2ikp4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 281. Answer:
+> i2fkp4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 282. Answer:
+> 2ifkp4
+Grade: 6 cows(s)
+Turn 283. Answer:
+> fi2kp4
+Grade: 6 cows(s)
+Turn 284. Answer:
+> if2kp4
+Grade: 6 cows(s)
+Turn 285. Answer:
+> ifk2p4
+Grade: 6 cows(s)
+Turn 286. Answer:
+> fik2p4
+Grade: 6 cows(s)
+Turn 287. Answer:
+> kif2p4
+Grade: 6 cows(s)
+Turn 288. Answer:
+> ikf2p4
+Grade: 6 cows(s)
+Turn 289. Answer:
+> fki2p4
+Grade: 6 cows(s)
+Turn 290. Answer:
+> kfi2p4
+Grade: 6 cows(s)
+Turn 291. Answer:
+> pfi2k4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 292. Answer:
+> fpi2k4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 293. Answer:
+> ipf2k4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 294. Answer:
+> pif2k4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 295. Answer:
+> fip2k4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 296. Answer:
+> ifp2k4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 297. Answer:
+> 2fpik4
+Grade: 3 bull(s) and 3 cow(s)
+Turn 298. Answer:
+> f2pik4
+Grade: 4 bull(s) and 2 cow(s)
+Turn 299. Answer:
+> p2fik4
+Grade: 3 bull(s) and 3 cow(s)
+Turn 300. Answer:
+> 2pfik4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 301. Answer:
+> fp2ik4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 302. Answer:
+> pf2ik4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 303. Answer:
+> pi2fk4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 304. Answer:
+> ip2fk4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 305. Answer:
+> 2pifk4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 306. Answer:
+> p2ifk4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 307. Answer:
+> i2pfk4
+Grade: 3 bull(s) and 3 cow(s)
+Turn 308. Answer:
+> 2ipfk4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 309. Answer:
+> 2ifpk4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 310. Answer:
+> i2fpk4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 311. Answer:
+> f2ipk4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 312. Answer:
+> 2fipk4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 313. Answer:
+> if2pk4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 314. Answer:
+> fi2pk4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 315. Answer:
+> ki2pf4
+Grade: 6 cows(s)
+Turn 316. Answer:
+> ik2pf4
+Grade: 6 cows(s)
+Turn 317. Answer:
+> 2kipf4
+Grade: 6 cows(s)
+Turn 318. Answer:
+> k2ipf4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 319. Answer:
+> i2kpf4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 320. Answer:
+> 2ikpf4
+Grade: 6 cows(s)
+Turn 321. Answer:
+> pik2f4
+Grade: 6 cows(s)
+Turn 322. Answer:
+> ipk2f4
+Grade: 6 cows(s)
+Turn 323. Answer:
+> kpi2f4
+Grade: 6 cows(s)
+Turn 324. Answer:
+> pki2f4
+Grade: 6 cows(s)
+Turn 325. Answer:
+> ikp2f4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 326. Answer:
+> kip2f4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 327. Answer:
+> k2pif4
+Grade: 3 bull(s) and 3 cow(s)
+Turn 328. Answer:
+> 2kpif4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 329. Answer:
+> pk2if4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 330. Answer:
+> kp2if4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 331. Answer:
+> 2pkif4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 332. Answer:
+> p2kif4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 333. Answer:
+> p2ikf4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 334. Answer:
+> 2pikf4
+Grade: 6 cows(s)
+Turn 335. Answer:
+> ip2kf4
+Grade: 6 cows(s)
+Turn 336. Answer:
+> pi2kf4
+Grade: 6 cows(s)
+Turn 337. Answer:
+> 2ipkf4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 338. Answer:
+> i2pkf4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 339. Answer:
+> f2pki4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 340. Answer:
+> 2fpki4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 341. Answer:
+> pf2ki4
+Grade: 6 cows(s)
+Turn 342. Answer:
+> fp2ki4
+Grade: 6 cows(s)
+Turn 343. Answer:
+> 2pfki4
+Grade: 6 cows(s)
+Turn 344. Answer:
+> p2fki4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 345. Answer:
+> k2fpi4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 346. Answer:
+> 2kfpi4
+Grade: 6 cows(s)
+Turn 347. Answer:
+> fk2pi4
+Grade: 6 cows(s)
+Turn 348. Answer:
+> kf2pi4
+Grade: 6 cows(s)
+Turn 349. Answer:
+> 2fkpi4
+Grade: 6 cows(s)
+Turn 350. Answer:
+> f2kpi4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 351. Answer:
+> fpk2i4
+Grade: 6 cows(s)
+Turn 352. Answer:
+> pfk2i4
+Grade: 6 cows(s)
+Turn 353. Answer:
+> kfp2i4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 354. Answer:
+> fkp2i4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 355. Answer:
+> pkf2i4
+Grade: 6 cows(s)
+Turn 356. Answer:
+> kpf2i4
+Grade: 6 cows(s)
+Turn 357. Answer:
+> kp2fi4
+Grade: 6 cows(s)
+Turn 358. Answer:
+> pk2fi4
+Grade: 6 cows(s)
+Turn 359. Answer:
+> 2kpfi4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 360. Answer:
+> k2pfi4
+Grade: 2 bull(s) and 4 cow(s)
+Turn 361. Answer:
+> p2kfi4
+Grade: 1 bull(s) and 5 cow(s)
+Turn 362. Answer:
+> 2pkfi4
+Grade: 6 cows(s)
+Turn 363. Answer:
+> ipkf24
+Grade: 6 cows(s)
+Turn 364. Answer:
+> pikf24
+Grade: 6 cows(s)
+Turn 365. Answer:
+> kipf24
+Grade: 1 bull(s) and 5 cow(s)
+Turn 366. Answer:
+> ikpf24
+Grade: 1 bull(s) and 5 cow(s)
+Turn 367. Answer:
+> pkif24
+Grade: 6 cows(s)
+Turn 368. Answer:
+> kpif24
+Grade: 6 cows(s)
+Turn 369. Answer:
+> fpik24
+Grade: 6 cows(s)
+Turn 370. Answer:
+> pfik24
+Grade: 6 cows(s)
+Turn 371. Answer:
+> ifpk24
+Grade: 1 bull(s) and 5 cow(s)
+Turn 372. Answer:
+> fipk24
+Grade: 1 bull(s) and 5 cow(s)
+Turn 373. Answer:
+> pifk24
+Grade: 6 cows(s)
+Turn 374. Answer:
+> ipfk24
+Grade: 6 cows(s)
+Turn 375. Answer:
+> ikfp24
+Grade: 6 cows(s)
+Turn 376. Answer:
+> kifp24
+Grade: 6 cows(s)
+Turn 377. Answer:
+> fikp24
+Grade: 6 cows(s)
+Turn 378. Answer:
+> ifkp24
+Grade: 6 cows(s)
+Turn 379. Answer:
+> kfip24
+Grade: 6 cows(s)
+Turn 380. Answer:
+> fkip24
+Grade: 6 cows(s)
+Turn 381. Answer:
+> fkpi24
+Grade: 2 bull(s) and 4 cow(s)
+Turn 382. Answer:
+> kfpi24
+Grade: 2 bull(s) and 4 cow(s)
+Turn 383. Answer:
+> pfki24
+Grade: 1 bull(s) and 5 cow(s)
+Turn 384. Answer:
+> fpki24
+Grade: 1 bull(s) and 5 cow(s)
+Turn 385. Answer:
+> kpfi24
+Grade: 1 bull(s) and 5 cow(s)
+Turn 386. Answer:
+> pkfi24
+Grade: 1 bull(s) and 5 cow(s)
+Turn 387. Answer:
+> pk4i2f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 388. Answer:
+> kp4i2f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 389. Answer:
+> 4pki2f
+Grade: 3 bull(s) and 3 cow(s)
+Turn 390. Answer:
+> p4ki2f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 391. Answer:
+> k4pi2f
+Grade: 3 bull(s) and 3 cow(s)
+Turn 392. Answer:
+> 4kpi2f
+Grade: 4 bull(s) and 2 cow(s)
+Turn 393. Answer:
+> ikp42f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 394. Answer:
+> kip42f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 395. Answer:
+> pik42f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 396. Answer:
+> ipk42f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 397. Answer:
+> kpi42f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 398. Answer:
+> pki42f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 399. Answer:
+> p4ik2f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 400. Answer:
+> 4pik2f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 401. Answer:
+> ip4k2f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 402. Answer:
+> pi4k2f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 403. Answer:
+> 4ipk2f
+Grade: 3 bull(s) and 3 cow(s)
+Turn 404. Answer:
+> i4pk2f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 405. Answer:
+> i4kp2f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 406. Answer:
+> 4ikp2f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 407. Answer:
+> ki4p2f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 408. Answer:
+> ik4p2f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 409. Answer:
+> 4kip2f
+Grade: 2 bull(s) and 4 cow(s)
+Turn 410. Answer:
+> k4ip2f
+Grade: 1 bull(s) and 5 cow(s)
+Turn 411. Answer:
+> 24ipkf
+Grade: 2 bull(s) and 4 cow(s)
+Turn 412. Answer:
+> 42ipkf
+Grade: 4 bull(s) and 2 cow(s)
+Turn 413. Answer:
+> i24pkf
+Grade: 3 bull(s) and 3 cow(s)
+Turn 414. Answer:
+> 2i4pkf
+Grade: 2 bull(s) and 4 cow(s)
+Turn 415. Answer:
+> 4i2pkf
+Grade: 3 bull(s) and 3 cow(s)
+Turn 416. Answer:
+> i42pkf
+Grade: 2 bull(s) and 4 cow(s)
+Turn 417. Answer:
+> p42ikf
+Grade: 3 bull(s) and 3 cow(s)
+Turn 418. Answer:
+> 4p2ikf
+Grade: 4 bull(s) and 2 cow(s)
+Turn 419. Answer:
+> 2p4ikf
+Grade: 3 bull(s) and 3 cow(s)
+Turn 420. Answer:
+> p24ikf
+Grade: 4 bull(s) and 2 cow(s)
+Turn 421. Answer:
+> 42pikf
+Grade: 6 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 7?[0m
+ Please, enter the secret code's length:
+> 0
+Input the number of possible symbols in the code:
+> 1
+Error: it's not possible to generate a code with a length of 1 with 0 unique symbols.
+
+?[1;31m
+Start test 8?[0m
+ Please, enter the secret code's length:
+> 10
+Input the number of possible symbols in the code:
+> 9
+Error: it's not possible to generate a code with a length of 9 with 10 unique symbols.
+
+?[1;31m
+Start test 9?[0m
+ Please, enter the secret code's length:
+> 9
+Input the number of possible symbols in the code:
+> 37
+Error: maximum number of possible symbols in the code is 36 (0-9, a-z).
+?[1;31m
+Start test 10?[0m
+ Please, enter the secret code's length:
+> abcdefg 1 -6
+Error: abcdefg isn't a valid number
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
